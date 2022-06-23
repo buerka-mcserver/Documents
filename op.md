@@ -1,0 +1,8 @@
+- [Essentials](https://mineplugin.org/Essentials)
+- [Authme](https://mineplugin.org/Authme) 登录注册
+- [WorldEdit](https://www.mineplugin.org/WorldEdit)
+- [Residence](https://mineplugin.org/Residence) 领地
+- [CoreProtect](https://mineplugin.org/CoreProtect) 行为记录
+- [QuickShop](https://mineplugin.org/QuickShop) 箱子商店
+- [HolographicDisplays](https://mineplugin.org/HolographicDisplays) 浮空字
+- [Citizens](https://www.mineplugin.org/Citizens) npc
